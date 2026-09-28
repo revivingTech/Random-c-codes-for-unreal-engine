@@ -1,4 +1,4 @@
-# Random-c-codes-for-unreal-engine
+# Random c++ codes for unreal engine
 Various assets and game logic will be psoted on here. Kinda like fab but specifically for c++ unreal engine 
 
 Each c++ class actor will have a folder where it will contain a cpp + a .h file of the class actor. Simply copy those two files, and add them to your Documents/[Project[/Source/[Project] folder where the generated c++ files are stored.
